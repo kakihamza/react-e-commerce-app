@@ -19,7 +19,7 @@ const Container = styled.div`
      background-color: darkviolet;
 
       }
-  ${mobile({ padding: "0px", flexDirection:"column" })}
+ 
 
 `;
 
